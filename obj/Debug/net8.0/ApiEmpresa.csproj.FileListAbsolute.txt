@@ -1,0 +1,7 @@
+C:\Users\danny\Music\ApiEmpresa\obj\Debug\net8.0\ApiEmpresa.csproj.AssemblyReference.cache
+C:\Users\danny\Music\ApiEmpresa\obj\Debug\net8.0\ApiEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\Music\ApiEmpresa\obj\Debug\net8.0\ApiEmpresa.AssemblyInfoInputs.cache
+C:\Users\danny\Music\ApiEmpresa\obj\Debug\net8.0\ApiEmpresa.AssemblyInfo.cs
+C:\Users\danny\Music\ApiEmpresa\obj\Debug\net8.0\ApiEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\danny\Music\ApiEmpresa\obj\Debug\net8.0\ApiEmpresa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danny\Music\ApiEmpresa\obj\Debug\net8.0\ApiEmpresa.MvcApplicationPartsAssemblyInfo.cache
